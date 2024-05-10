@@ -7,6 +7,7 @@
 </div>
 
 ##
+### Languages
 
 <div>
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />  
@@ -20,6 +21,7 @@
 </div>
 
 ##
+### Social media and contacts
 
 <div>
   <a href="https://www.instagram.com/ericsson.costagomes/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
