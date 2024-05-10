@@ -32,8 +32,8 @@
 </div>
 
 
-#### My name is Ericsson Gomes,
-To my family, i'm the brother and son who just returned home after being lost in the programming five years ago. They dont'know i came back with a mission, to bring pride and riches to our home, and they never can. To protect them, i must work alone. From a life of excess to a life studying and coding, i must work in secret and pretend to be someone else. To do this, i must become someone else. I must become something else...
+#### My name is Ericsson Gomes...
+  ...To my family, i'm the brother and son who just returned home after being lost in the programming five years ago. They don't know i came back with a mission, to bring pride and riches to our home, and they never can. To protect them, i must work alone. From a life of excess to a life studying and coding, i must work in secret and pretend to be someone else. To do this, i must become someone else. I must become something else...
 
 
 
