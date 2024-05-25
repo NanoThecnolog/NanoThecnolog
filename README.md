@@ -1,4 +1,4 @@
-# Ericsson Gomes
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0D8A1F&random=false&width=435&lines=Hey!+I'm+Ericsson+Gomes)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/NanoThecnolog"></a>
