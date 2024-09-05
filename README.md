@@ -18,6 +18,8 @@
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /></a>
   <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" /></a>
+  <img height="50em" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"/>
 </div>
 
 ##
