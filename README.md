@@ -1,6 +1,10 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0D8A1F&random=false&width=435&lines=Hey!+I'm+Nano)](https://git.io/typing-svg)
 
-
+<div>
+  <a href="https://github.com/NanoThecnolog"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NanoThecnolog&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanoThecnolog&layout=compact&langs_count=16&theme=shadow_green"/>
+</div>
 
 ##
 ### Languages
