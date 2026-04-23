@@ -10,14 +10,18 @@
 ### Languages
 
 <div>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/></a>
-  <a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></a>
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" /></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" /></a>
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /></a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></a>  
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /></a>
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" /></a>
   <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" /></a>
+  
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"/>  
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />  
 </div>
